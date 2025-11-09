@@ -11,7 +11,7 @@ const geist = Geist({
 
 export const metadata: Metadata = {
 	title: "Favour Abangwu - Frontend Developer",
-	description: "Frontend Developer from Philippines with 3 years of experience.",
+	description: "Frontend Developer with 3 years of experience.",
 };
 
 export default function RootLayout({
